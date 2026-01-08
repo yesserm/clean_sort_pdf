@@ -1,0 +1,4 @@
+pycryptodome==3.9.9
+cryptography==35.0.0
+pdfplumber==0.5.28
+pypdf3==1.0.6
